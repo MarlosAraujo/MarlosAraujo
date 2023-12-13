@@ -3,9 +3,9 @@
 <h3 align="center">Sou Engenheiro em Computação Industrial</h3>
  
 <h4 align="center">Atualmente trabalhando Cyber Security e Virtualization💻</h4>  
- ![Snake animation](https://github.com/MarlosAraujo/rtenorioh/blob/output/github-contribution-grid-snake.svg)
-</br>
+ 
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/MarlosAraujo/count.svg" /></p>
+![Snake animation](https://github.com/MarlosAraujo/rtenorioh/blob/output/github-contribution-grid-snake.svg)
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactJS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
