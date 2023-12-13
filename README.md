@@ -1,21 +1,11 @@
 <h1 align="center">Olá! Eu sou o Marlos Araujo 👋</h1>
 
 <h3 align="center">Sou Engenheiro em Computação Industrial</h3>
-
-<h4 align="center">Atualmente trabalhando Cyber Security e Virtualization💻</h4>
-
-<div>
-  <a href="https://github.com/MarlosAraujo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarlosAraujo&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" />
-  </a>
-<div>
-  
+ 
+<h4 align="center">Atualmente trabalhando Cyber Security e Virtualization💻</h4>  
+ ![Snake animation](https://github.com/MarlosAraujo/rtenorioh/blob/output/github-contribution-grid-snake.svg)
 </br>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/MarlosAraujo/count.svg" /></p>
-  
-  ![Snake animation](https://github.com/MarlosAraujo/rtenorioh/blob/output/github-contribution-grid-snake.svg)
-
-
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactJS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
