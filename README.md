@@ -1,6 +1,6 @@
 <h1 align="center">👋 Olá! Eu sou o Marlos Araujo, desenvolvedor full stack entusiasta por encontra soluções para problemas cotidianos </h1>
 <p align="center">
-<a href="https://instagram.com/marlosaraujo"><img src="https://img.shields.io/badge/-@dicasparadevs_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/marlosaraujo"><img src="https://img.shields.io/badge/-@marlosaraujo_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/marlosaraujo"><img src="https://img.shields.io/badge/-Marlos%20Araujo-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:marlosmastroyanodearaujo@gmail.com"><img src="https://img.shields.io/badge/-marlosmastroyanodearaujo@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
