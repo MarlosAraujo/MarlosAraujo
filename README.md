@@ -20,6 +20,8 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![React](https://img.shields.io/badge/Nextjs-231F20?style=flat&logo=nextjs)
+
 
 <h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
 
@@ -39,13 +41,7 @@
 
 ![AWS](https://img.shields.io/badge/aws-4285F4?style=for-the-badge&logo=aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-4285F4?style=for-the-badge&logo=docker&logoColor=white)
-
-
-<h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
-
-![Marlos Araujo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarlosAraujo&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true)
-  
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/MarlosAraujo/count.svg" /></p>
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
